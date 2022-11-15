@@ -1,0 +1,8 @@
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\bin\Debug\ExperionProject1.exe.config
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\bin\Debug\ExperionProject1.exe
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\bin\Debug\ExperionProject1.pdb
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\obj\Debug\ExperionProject1.csproj.AssemblyReference.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\obj\Debug\ExperionProject1.csproj.SuggestedBindingRedirects.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\obj\Debug\ExperionProject1.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\obj\Debug\ExperionProject1.exe
+C:\Users\amala.george\source\repos\ExperionProject1\ExperionProject1\obj\Debug\ExperionProject1.pdb

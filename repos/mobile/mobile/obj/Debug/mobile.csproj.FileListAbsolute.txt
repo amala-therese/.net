@@ -1,0 +1,8 @@
+C:\Users\amala.george\source\repos\mobile\mobile\bin\Debug\mobile.exe.config
+C:\Users\amala.george\source\repos\mobile\mobile\bin\Debug\mobile.exe
+C:\Users\amala.george\source\repos\mobile\mobile\bin\Debug\mobile.pdb
+C:\Users\amala.george\source\repos\mobile\mobile\obj\Debug\mobile.csproj.AssemblyReference.cache
+C:\Users\amala.george\source\repos\mobile\mobile\obj\Debug\mobile.csproj.SuggestedBindingRedirects.cache
+C:\Users\amala.george\source\repos\mobile\mobile\obj\Debug\mobile.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\source\repos\mobile\mobile\obj\Debug\mobile.exe
+C:\Users\amala.george\source\repos\mobile\mobile\obj\Debug\mobile.pdb

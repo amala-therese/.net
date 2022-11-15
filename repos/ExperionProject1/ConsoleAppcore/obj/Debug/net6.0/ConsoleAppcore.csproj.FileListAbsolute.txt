@@ -1,0 +1,15 @@
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\bin\Debug\net6.0\ConsoleAppcore.exe
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\bin\Debug\net6.0\ConsoleAppcore.deps.json
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\bin\Debug\net6.0\ConsoleAppcore.runtimeconfig.json
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\bin\Debug\net6.0\ConsoleAppcore.dll
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\bin\Debug\net6.0\ConsoleAppcore.pdb
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.csproj.AssemblyReference.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.AssemblyInfoInputs.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.AssemblyInfo.cs
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.csproj.CoreCompileInputs.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.dll
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\refint\ConsoleAppcore.dll
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.pdb
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ConsoleAppcore.genruntimeconfig.cache
+C:\Users\amala.george\source\repos\ExperionProject1\ConsoleAppcore\obj\Debug\net6.0\ref\ConsoleAppcore.dll
